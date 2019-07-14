@@ -6,7 +6,7 @@ PRE-REQUISITES:
 RUN INSTRUCTIONS:
 ----------------
 1. Clone the git repository into your local system folder
-	git clone https://github.com/sharmilasudarshan/DiscoveryRepo.git
+	- "git clone https://github.com/sharmilasudarshan/DiscoveryRepo.git"
 	
 2. Navigate to "discoveryautomation" folder (use terminal or windows command prompt) and run "mvn clean test"  to start the test execution.
 
