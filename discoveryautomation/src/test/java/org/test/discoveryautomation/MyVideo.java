@@ -45,7 +45,6 @@ public class MyVideo {
 			logger.info("Launched the Discovery URL : " + discovery_config.getProperty("ss_URL"));
 
 			List<WebElement> lt = webDriver.findElements(By.xpath(discovery_config.getProperty("ss_videos_recc")));
-			logger.info("Number of video's under Recommended videos : " + lt.size());
 
 			int no_videos_fav = Integer.parseInt(discovery_config.getProperty("ss_no_videos_add_fav"));
 			ArrayList<String> st = new ArrayList<String>();
@@ -66,11 +65,12 @@ public class MyVideo {
 						"(//div[contains(text(),'Recommended')]//ancestor::section//div[@class='showTileSquare__content']//span[@class='tooltip-wrapper']/i)["
 								+ i + "]/ancestor::div/div[@class='showTileSquare__description']/div")))
 						.getText());
+				logger.info("Selected favorite video title : " + st.get(i-1));
+				logger.info("Selected favorite video Description : " + sd.get(i-1));
 			}
 			Collections.sort(st);
 			Collections.sort(sd);
-			logger.info("Selected favorite video titles : " + st);
-			logger.info("Selected favorite video Description : " + sd);
+			logger.info("Number of videos added as favorites from Recommended for you section : " + no_videos_fav);
 
 			webDriver.findElement(By.xpath(discovery_config.getProperty("ss_menu"))).click();
 			logger.info("Clicked on Menu icon");
@@ -109,12 +109,14 @@ public class MyVideo {
 
 					st_af_add.add(element_title.getText());
 					sd_af_add.add(element_desc.getText());
+					
+					logger.info("Favorite show titles in My Video : " + st_af_add.get(i-1));
+					logger.info("Favorite show Descriptions in My Video  : " + sd_af_add.get(i-1));
 
 				}
 				Collections.sort(st_af_add);
 				Collections.sort(sd_af_add);
-				logger.info("Favorite show titles in My Video : " + st_af_add);
-				logger.info("Favorite show Descriptions in My Video  : " + sd_af_add);
+				
 
 				for (int i = 0; i < no_videos_fav; i++) {
 					Assert.assertEquals(st.get(i), st_af_add.get(i));

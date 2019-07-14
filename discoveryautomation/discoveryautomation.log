@@ -1,0 +1,259 @@
+2019-07-14 13:11:37 INFO  MyVideo:34 - ****************Info logger message*****************
+2019-07-14 13:16:39 INFO  MyVideo:34 - ****************Info logger message*****************
+2019-07-14 13:16:43 INFO  MyVideo:40 - Step 1: Opened Chrome driver
+2019-07-14 13:16:50 INFO  MyVideo:44 - Step 2: Launched the Discovery URL : https://www.discovery.com/
+2019-07-14 13:27:36 INFO  MyVideo:37 - Opened Chrome driver
+2019-07-14 13:27:43 INFO  MyVideo:41 - Launched the Discovery URL : https://www.discovery.com/
+2019-07-14 13:27:43 INFO  MyVideo:44 - Number of video's under Recommended videos : 12
+2019-07-14 13:27:44 INFO  MyVideo:66 - Selected favorite video titles : [SHARK WEEK, NAKED AND AFRAID XL]
+2019-07-14 13:27:44 INFO  MyVideo:67 - Selected favorite video Description : [Television's longest running must-see summer TV event is filled with all things sharks! Shark Week…, A group of the best survival experts in the world take on an un-survivable situation: 40 days.…]
+2019-07-14 13:27:44 INFO  MyVideo:70 - Clicked on Menu icon
+2019-07-14 13:27:45 INFO  MyVideo:73 - Clicked on My Videos
+2019-07-14 13:27:48 INFO  MyVideo:79 - Number of video's under Favorite shows : 2
+2019-07-14 13:27:48 INFO  MyVideo:82 - Same number of videos added as Favorite from recommended section are displayed in My Video's Favorite shows
+2019-07-14 13:27:48 INFO  MyVideo:112 - Favorite show titles in My Video : [SHARK WEEK, NAKED AND AFRAID XL]
+2019-07-14 13:27:48 INFO  MyVideo:113 - Favorite show Descriptions in My Video  : [Television's longest running must-see summer TV event is filled with all things sharks! Shark Week…, A group of the best survival experts in the world take on an un-survivable situation: 40 days.…]
+2019-07-14 13:27:48 INFO  MyVideo:116 - Titles of the added recommended videos match with the favorite videos 
+2019-07-14 13:27:48 INFO  MyVideo:117 - Descriptions of the added recommended videos match with the favorite videos 
+2019-07-14 13:28:18 INFO  MyVideo:37 - Opened Chrome driver
+2019-07-14 13:28:25 INFO  MyVideo:41 - Launched the Discovery URL : https://www.discovery.com/
+2019-07-14 13:28:25 INFO  MyVideo:44 - Number of video's under Recommended videos : 12
+2019-07-14 13:28:26 INFO  MyVideo:66 - Selected favorite video titles : [SHARK WEEK, NAKED AND AFRAID XL]
+2019-07-14 13:28:26 INFO  MyVideo:67 - Selected favorite video Description : [Television's longest running must-see summer TV event is filled with all things sharks! Shark Week…, A group of the best survival experts in the world take on an un-survivable situation: 40 days.…]
+2019-07-14 13:28:26 INFO  MyVideo:70 - Clicked on Menu icon
+2019-07-14 13:28:27 INFO  MyVideo:73 - Clicked on My Videos
+2019-07-14 13:28:31 INFO  MyVideo:79 - Number of video's under Favorite shows : 2
+2019-07-14 13:28:31 INFO  MyVideo:82 - Same number of videos added as Favorite from recommended section are displayed in My Video's Favorite shows
+2019-07-14 13:28:31 INFO  MyVideo:112 - Favorite show titles in My Video : [SHARK WEEK, NAKED AND AFRAID XL]
+2019-07-14 13:28:31 INFO  MyVideo:113 - Favorite show Descriptions in My Video  : [Television's longest running must-see summer TV event is filled with all things sharks! Shark Week…, A group of the best survival experts in the world take on an un-survivable situation: 40 days.…]
+2019-07-14 13:28:31 INFO  MyVideo:116 - Titles of the added recommended videos match with the favorite videos 
+2019-07-14 13:28:31 INFO  MyVideo:117 - Descriptions of the added recommended videos match with the favorite videos 
+2019-07-14 13:30:12 INFO  MyVideo:37 - Opened Chrome driver
+2019-07-14 13:30:40 INFO  MyVideo:41 - Launched the Discovery URL : https://www.discovery.com/
+2019-07-14 13:30:40 INFO  MyVideo:44 - Number of video's under Recommended videos : 12
+2019-07-14 13:30:42 INFO  MyVideo:66 - Selected favorite video titles : [SHARK WEEK, NAKED AND AFRAID XL]
+2019-07-14 13:30:42 INFO  MyVideo:67 - Selected favorite video Description : [Television's longest running must-see summer TV event is filled with all things sharks! Shark Week…, A group of the best survival experts in the world take on an un-survivable situation: 40 days.…]
+2019-07-14 13:30:42 INFO  MyVideo:70 - Clicked on Menu icon
+2019-07-14 13:30:42 INFO  MyVideo:73 - Clicked on My Videos
+2019-07-14 13:30:45 INFO  MyVideo:79 - Number of video's under Favorite shows : 2
+2019-07-14 13:30:45 INFO  MyVideo:82 - Same number of videos added as Favorite from recommended section are displayed in My Video's Favorite shows
+2019-07-14 13:30:46 INFO  MyVideo:112 - Favorite show titles in My Video : [SHARK WEEK, NAKED AND AFRAID XL]
+2019-07-14 13:30:46 INFO  MyVideo:113 - Favorite show Descriptions in My Video  : [Television's longest running must-see summer TV event is filled with all things sharks! Shark Week…, A group of the best survival experts in the world take on an un-survivable situation: 40 days.…]
+2019-07-14 13:30:46 INFO  MyVideo:116 - Titles of the added recommended videos match with the favorite videos 
+2019-07-14 13:30:46 INFO  MyVideo:117 - Descriptions of the added recommended videos match with the favorite videos 
+2019-07-14 13:39:52 INFO  MyVideo:36 - Opened Chrome driver
+2019-07-14 13:40:00 INFO  MyVideo:40 - Launched the Discovery URL : https://www.discovery.com/
+2019-07-14 13:40:01 INFO  MyVideo:43 - Number of video's under Recommended videos : 12
+2019-07-14 13:40:02 INFO  MyVideo:65 - Selected favorite video titles : [SHARK WEEK, NAKED AND AFRAID XL]
+2019-07-14 13:40:02 INFO  MyVideo:66 - Selected favorite video Description : [Television's longest running must-see summer TV event is filled with all things sharks! Shark Week…, A group of the best survival experts in the world take on an un-survivable situation: 40 days.…]
+2019-07-14 13:40:02 INFO  MyVideo:69 - Clicked on Menu icon
+2019-07-14 13:40:02 INFO  MyVideo:72 - Clicked on My Videos
+2019-07-14 13:40:06 INFO  MyVideo:78 - Number of video's under Favorite shows : 2
+2019-07-14 13:40:06 INFO  MyVideo:81 - Same number of videos added as Favorite from recommended section are displayed in My Video's Favorite shows
+2019-07-14 13:40:06 INFO  MyVideo:111 - Favorite show titles in My Video : [SHARK WEEK, NAKED AND AFRAID XL]
+2019-07-14 13:40:06 INFO  MyVideo:112 - Favorite show Descriptions in My Video  : [Television's longest running must-see summer TV event is filled with all things sharks! Shark Week…, A group of the best survival experts in the world take on an un-survivable situation: 40 days.…]
+2019-07-14 13:40:06 INFO  MyVideo:115 - Titles of the added recommended videos match with the favorite videos 
+2019-07-14 13:40:06 INFO  MyVideo:116 - Descriptions of the added recommended videos match with the favorite videos 
+2019-07-14 13:41:16 INFO  MyVideo:36 - Opened Chrome driver
+2019-07-14 13:41:23 INFO  MyVideo:40 - Launched the Discovery URL : https://www.discovery.com/
+2019-07-14 13:41:23 INFO  MyVideo:43 - Number of video's under Recommended videos : 12
+2019-07-14 13:41:24 INFO  MyVideo:65 - Selected favorite video titles : [SHARK WEEK, NAKED AND AFRAID XL]
+2019-07-14 13:41:24 INFO  MyVideo:66 - Selected favorite video Description : [Television's longest running must-see summer TV event is filled with all things sharks! Shark Week…, A group of the best survival experts in the world take on an un-survivable situation: 40 days.…]
+2019-07-14 13:41:25 INFO  MyVideo:69 - Clicked on Menu icon
+2019-07-14 13:41:25 INFO  MyVideo:72 - Clicked on My Videos
+2019-07-14 13:41:30 INFO  MyVideo:78 - Number of video's under Favorite shows : 1
+2019-07-14 13:41:30 ERROR MyVideo:84 - Same number of videos added as Favorite from recommended section are not displayed in My Video's Favorite shows
+2019-07-14 13:41:30 INFO  MyVideo:111 - Favorite show titles in My Video : [NAKED AND AFRAID XL]
+2019-07-14 13:41:30 INFO  MyVideo:112 - Favorite show Descriptions in My Video  : [A group of the best survival experts in the world take on an un-survivable situation: 40 days.…]
+2019-07-14 13:41:30 ERROR MyVideo:119 - Titles of the added recommended videos doesn't match with the favorite videos 
+2019-07-14 13:41:30 ERROR MyVideo:120 - Descriptions of the added recommended videos doesn't match with the favorite videos 
+2019-07-14 13:51:34 INFO  MyVideo:38 - Opened Chrome driver
+2019-07-14 13:51:42 INFO  MyVideo:42 - Launched the Discovery URL : https://www.discovery.com/
+2019-07-14 13:51:42 INFO  MyVideo:45 - Number of video's under Recommended videos : 12
+2019-07-14 13:53:26 INFO  MyVideo:38 - Opened Chrome driver
+2019-07-14 13:53:32 INFO  MyVideo:42 - Launched the Discovery URL : https://www.discovery.com/
+2019-07-14 13:53:32 INFO  MyVideo:45 - Number of video's under Recommended videos : 12
+2019-07-14 13:55:32 INFO  MyVideo:38 - Opened Chrome driver
+2019-07-14 13:56:14 INFO  MyVideo:38 - Opened Chrome driver
+2019-07-14 13:56:27 INFO  MyVideo:42 - Launched the Discovery URL : https://www.discovery.com/
+2019-07-14 13:56:27 INFO  MyVideo:45 - Number of video's under Recommended videos : 12
+2019-07-14 13:57:17 INFO  MyVideo:38 - Opened Chrome driver
+2019-07-14 13:57:26 INFO  MyVideo:42 - Launched the Discovery URL : https://www.discovery.com/
+2019-07-14 13:57:26 INFO  MyVideo:45 - Number of video's under Recommended videos : 12
+2019-07-14 13:59:59 INFO  MyVideo:38 - Opened Chrome driver
+2019-07-14 14:00:30 INFO  MyVideo:42 - Launched the Discovery URL : https://www.discovery.com/
+2019-07-14 14:00:30 INFO  MyVideo:45 - Number of video's under Recommended videos : 12
+2019-07-14 14:07:36 INFO  MyVideo:38 - Opened Chrome driver
+2019-07-14 14:07:47 INFO  MyVideo:42 - Launched the Discovery URL : https://www.discovery.com/
+2019-07-14 14:07:47 INFO  MyVideo:45 - Number of video's under Recommended videos : 12
+2019-07-14 14:09:53 INFO  MyVideo:36 - Opened Chrome driver
+2019-07-14 14:10:10 INFO  MyVideo:40 - Launched the Discovery URL : https://www.discovery.com/
+2019-07-14 14:10:10 INFO  MyVideo:43 - Number of video's under Recommended videos : 12
+2019-07-14 14:10:11 INFO  MyVideo:65 - Selected favorite video titles : [SHARK WEEK, NAKED AND AFRAID XL]
+2019-07-14 14:10:11 INFO  MyVideo:66 - Selected favorite video Description : [Television's longest running must-see summer TV event is filled with all things sharks! Shark Week…, A group of the best survival experts in the world take on an un-survivable situation: 40 days.…]
+2019-07-14 14:10:12 INFO  MyVideo:69 - Clicked on Menu icon
+2019-07-14 14:10:12 INFO  MyVideo:72 - Clicked on My Videos
+2019-07-14 14:10:19 INFO  MyVideo:78 - Number of video's under Favorite shows : 2
+2019-07-14 14:10:19 INFO  MyVideo:81 - Same number of videos added as Favorite from recommended section are displayed in My Video's Favorite shows
+2019-07-14 14:10:20 INFO  MyVideo:111 - Favorite show titles in My Video : [SHARK WEEK, NAKED AND AFRAID XL]
+2019-07-14 14:10:20 INFO  MyVideo:112 - Favorite show Descriptions in My Video  : [Television's longest running must-see summer TV event is filled with all things sharks! Shark Week…, A group of the best survival experts in the world take on an un-survivable situation: 40 days.…]
+2019-07-14 14:10:20 INFO  MyVideo:115 - Titles of the added recommended videos match with the favorite videos 
+2019-07-14 14:10:20 INFO  MyVideo:116 - Descriptions of the added recommended videos match with the favorite videos 
+2019-07-14 14:11:55 INFO  MyVideo:36 - Opened Chrome driver
+2019-07-14 14:12:22 INFO  MyVideo:40 - Launched the Discovery URL : https://www.discovery.com/
+2019-07-14 14:12:22 INFO  MyVideo:43 - Number of video's under Recommended videos : 12
+2019-07-14 14:12:24 INFO  MyVideo:65 - Selected favorite video titles : [SHARK WEEK, NAKED AND AFRAID XL]
+2019-07-14 14:12:24 INFO  MyVideo:66 - Selected favorite video Description : [Television's longest running must-see summer TV event is filled with all things sharks! Shark Week…, A group of the best survival experts in the world take on an un-survivable situation: 40 days.…]
+2019-07-14 14:12:24 INFO  MyVideo:69 - Clicked on Menu icon
+2019-07-14 14:12:24 INFO  MyVideo:72 - Clicked on My Videos
+2019-07-14 14:12:28 INFO  MyVideo:78 - Number of video's under Favorite shows : 2
+2019-07-14 14:12:28 INFO  MyVideo:81 - Same number of videos added as Favorite from recommended section are displayed in My Video's Favorite shows
+2019-07-14 14:12:29 INFO  MyVideo:111 - Favorite show titles in My Video : [SHARK WEEK, NAKED AND AFRAID XL]
+2019-07-14 14:12:29 INFO  MyVideo:112 - Favorite show Descriptions in My Video  : [Television's longest running must-see summer TV event is filled with all things sharks! Shark Week…, A group of the best survival experts in the world take on an un-survivable situation: 40 days.…]
+2019-07-14 14:12:29 INFO  MyVideo:115 - Titles of the added recommended videos match with the favorite videos 
+2019-07-14 14:12:29 INFO  MyVideo:116 - Descriptions of the added recommended videos match with the favorite videos 
+2019-07-14 14:31:49 INFO  MyVideo:40 - Opened Chrome driver
+2019-07-14 14:32:05 INFO  MyVideo:44 - Launched the Discovery URL : https://www.discovery.com/
+2019-07-14 14:32:05 INFO  MyVideo:47 - Number of video's under Recommended videos : 12
+2019-07-14 14:32:06 INFO  MyVideo:69 - Selected favorite video titles : [SHARK WEEK, NAKED AND AFRAID XL]
+2019-07-14 14:32:06 INFO  MyVideo:70 - Selected favorite video Description : [Television's longest running must-see summer TV event is filled with all things sharks! Shark Week…, A group of the best survival experts in the world take on an un-survivable situation: 40 days.…]
+2019-07-14 14:32:06 INFO  MyVideo:73 - Clicked on Menu icon
+2019-07-14 14:32:07 INFO  MyVideo:76 - Clicked on My Videos
+2019-07-14 14:32:16 INFO  MyVideo:82 - Number of video's under Favorite shows : 2
+2019-07-14 14:32:16 INFO  MyVideo:85 - Same number of videos added as Favorite from recommended section are displayed in My Video's Favorite shows
+2019-07-14 14:32:17 INFO  MyVideo:111 - Favorite show titles in My Video : [SHARK WEEK, NAKED AND AFRAID XL]
+2019-07-14 14:32:17 INFO  MyVideo:112 - Favorite show Descriptions in My Video  : [Television's longest running must-see summer TV event is filled with all things sharks! Shark Week…, A group of the best survival experts in the world take on an un-survivable situation: 40 days.…]
+2019-07-14 14:32:17 INFO  MyVideo:117 - Titles of the added recommended videos match with the favorite videos 
+2019-07-14 14:32:17 INFO  MyVideo:117 - Titles of the added recommended videos match with the favorite videos 
+2019-07-14 14:32:17 INFO  MyVideo:122 - Descriptions of the added recommended videos match with the favorite videos 
+2019-07-14 14:32:17 INFO  MyVideo:122 - Descriptions of the added recommended videos match with the favorite videos 
+2019-07-14 14:33:12 INFO  MyVideo:40 - Opened Chrome driver
+2019-07-14 14:33:21 INFO  MyVideo:44 - Launched the Discovery URL : https://www.discovery.com/
+2019-07-14 14:33:21 INFO  MyVideo:47 - Number of video's under Recommended videos : 12
+2019-07-14 14:33:22 INFO  MyVideo:69 - Selected favorite video titles : [SHARK WEEK, NAKED AND AFRAID XL]
+2019-07-14 14:33:22 INFO  MyVideo:70 - Selected favorite video Description : [Television's longest running must-see summer TV event is filled with all things sharks! Shark Week…, A group of the best survival experts in the world take on an un-survivable situation: 40 days.…]
+2019-07-14 14:33:22 INFO  MyVideo:73 - Clicked on Menu icon
+2019-07-14 14:33:23 INFO  MyVideo:76 - Clicked on My Videos
+2019-07-14 14:33:27 INFO  MyVideo:82 - Number of video's under Favorite shows : 2
+2019-07-14 14:33:27 INFO  MyVideo:85 - Same number of videos added as Favorite from recommended section are displayed in My Video's Favorite shows
+2019-07-14 14:33:28 INFO  MyVideo:111 - Favorite show titles in My Video : [SHARK WEEK, NAKED AND AFRAID XL]
+2019-07-14 14:33:28 INFO  MyVideo:112 - Favorite show Descriptions in My Video  : [Television's longest running must-see summer TV event is filled with all things sharks! Shark Week…, A group of the best survival experts in the world take on an un-survivable situation: 40 days.…]
+2019-07-14 14:33:28 ERROR MyVideo:140 - failed Index: 0, Size: 0
+2019-07-14 14:36:29 INFO  MyVideo:40 - Opened Chrome driver
+2019-07-14 14:36:39 INFO  MyVideo:44 - Launched the Discovery URL : https://www.discovery.com/
+2019-07-14 14:36:39 INFO  MyVideo:47 - Number of video's under Recommended videos : 12
+2019-07-14 14:36:40 INFO  MyVideo:69 - Selected favorite video titles : [SHARK WEEK, NAKED AND AFRAID XL]
+2019-07-14 14:36:40 INFO  MyVideo:70 - Selected favorite video Description : [Television's longest running must-see summer TV event is filled with all things sharks! Shark Week…, A group of the best survival experts in the world take on an un-survivable situation: 40 days.…]
+2019-07-14 14:36:40 INFO  MyVideo:73 - Clicked on Menu icon
+2019-07-14 14:36:40 INFO  MyVideo:76 - Clicked on My Videos
+2019-07-14 14:36:44 INFO  MyVideo:82 - Number of video's under Favorite shows : 2
+2019-07-14 14:36:44 INFO  MyVideo:85 - Same number of videos added as Favorite from recommended section are displayed in My Video's Favorite shows
+2019-07-14 14:36:44 INFO  MyVideo:111 - Favorite show titles in My Video : [SHARK WEEK, NAKED AND AFRAID XL]
+2019-07-14 14:36:44 INFO  MyVideo:112 - Favorite show Descriptions in My Video  : [Television's longest running must-see summer TV event is filled with all things sharks! Shark Week…, A group of the best survival experts in the world take on an un-survivable situation: 40 days.…]
+2019-07-14 14:43:48 INFO  MyVideo:41 - Opened Chrome driver
+2019-07-14 14:43:56 INFO  MyVideo:45 - Launched the Discovery URL : https://www.discovery.com/
+2019-07-14 14:43:56 INFO  MyVideo:48 - Number of video's under Recommended videos : 12
+2019-07-14 14:43:57 INFO  MyVideo:72 - Selected favorite video titles : [NAKED AND AFRAID XL, SHARK WEEK]
+2019-07-14 14:43:57 INFO  MyVideo:73 - Selected favorite video Description : [A group of the best survival experts in the world take on an un-survivable situation: 40 days.…, Television's longest running must-see summer TV event is filled with all things sharks! Shark Week…]
+2019-07-14 14:43:57 INFO  MyVideo:76 - Clicked on Menu icon
+2019-07-14 14:43:57 INFO  MyVideo:79 - Clicked on My Videos
+2019-07-14 14:44:02 INFO  MyVideo:85 - Number of video's under Favorite shows : 2
+2019-07-14 14:44:02 INFO  MyVideo:88 - Same number of videos added as Favorite from recommended section are displayed in My Video's Favorite shows
+2019-07-14 14:44:02 INFO  MyVideo:116 - Favorite show titles in My Video : [NAKED AND AFRAID XL, SHARK WEEK]
+2019-07-14 14:44:02 INFO  MyVideo:117 - Favorite show Descriptions in My Video  : [A group of the best survival experts in the world take on an un-survivable situation: 40 days.…, Television's longest running must-see summer TV event is filled with all things sharks! Shark Week…]
+2019-07-14 14:44:02 INFO  MyVideo:121 - Title of the added recommended video : NAKED AND AFRAID XL matched with the favorite video title : NAKED AND AFRAID XL
+2019-07-14 14:44:02 INFO  MyVideo:121 - Title of the added recommended video : SHARK WEEK matched with the favorite video title : SHARK WEEK
+2019-07-14 14:44:02 INFO  MyVideo:125 - Description of the added recommended video : A group of the best survival experts in the world take on an un-survivable situation: 40 days.… matched with the favorite video description : A group of the best survival experts in the world take on an un-survivable situation: 40 days.…
+2019-07-14 14:44:02 INFO  MyVideo:125 - Description of the added recommended video : Television's longest running must-see summer TV event is filled with all things sharks! Shark Week… matched with the favorite video description : Television's longest running must-see summer TV event is filled with all things sharks! Shark Week…
+2019-07-14 15:22:50 INFO  MyVideo:41 - Opened Chrome driver
+2019-07-14 15:23:00 INFO  MyVideo:45 - Launched the Discovery URL : https://www.discovery.com/
+2019-07-14 15:23:01 INFO  MyVideo:68 - Selected favorite video title : [SHARK WEEK]
+2019-07-14 15:23:01 INFO  MyVideo:69 - Selected favorite video Description : [Television's longest running must-see summer TV event is filled with all things sharks! Shark Week…]
+2019-07-14 15:23:01 INFO  MyVideo:68 - Selected favorite video title : [SHARK WEEK, NAKED AND AFRAID XL]
+2019-07-14 15:23:01 INFO  MyVideo:69 - Selected favorite video Description : [Television's longest running must-see summer TV event is filled with all things sharks! Shark Week…, A group of the best survival experts in the world take on an un-survivable situation: 40 days.…]
+2019-07-14 15:23:01 INFO  MyVideo:73 - Number of videos added as favorites from Recommended for you section : 2
+2019-07-14 15:23:01 INFO  MyVideo:76 - Clicked on Menu icon
+2019-07-14 15:23:01 INFO  MyVideo:79 - Clicked on My Videos
+2019-07-14 15:23:13 INFO  MyVideo:85 - Number of video's under Favorite shows : 2
+2019-07-14 15:23:13 INFO  MyVideo:88 - Same number of videos added as Favorite from recommended section are displayed in My Video's Favorite shows
+2019-07-14 15:23:14 INFO  MyVideo:116 - Favorite show titles in My Video : [NAKED AND AFRAID XL, SHARK WEEK]
+2019-07-14 15:23:14 INFO  MyVideo:117 - Favorite show Descriptions in My Video  : [A group of the best survival experts in the world take on an un-survivable situation: 40 days.…, Television's longest running must-see summer TV event is filled with all things sharks! Shark Week…]
+2019-07-14 15:23:14 INFO  MyVideo:121 - Title of the added recommended video : NAKED AND AFRAID XL matched with the favorite video title : NAKED AND AFRAID XL
+2019-07-14 15:23:14 INFO  MyVideo:121 - Title of the added recommended video : SHARK WEEK matched with the favorite video title : SHARK WEEK
+2019-07-14 15:23:14 INFO  MyVideo:125 - Description of the added recommended video : A group of the best survival experts in the world take on an un-survivable situation: 40 days.… matched with the favorite video description : A group of the best survival experts in the world take on an un-survivable situation: 40 days.…
+2019-07-14 15:23:14 INFO  MyVideo:125 - Description of the added recommended video : Television's longest running must-see summer TV event is filled with all things sharks! Shark Week… matched with the favorite video description : Television's longest running must-see summer TV event is filled with all things sharks! Shark Week…
+2019-07-14 15:23:54 INFO  MyVideo:41 - Opened Chrome driver
+2019-07-14 15:24:00 INFO  MyVideo:45 - Launched the Discovery URL : https://www.discovery.com/
+2019-07-14 15:24:01 ERROR MyVideo:132 -  Execution failed Index: 1, Size: 1
+2019-07-14 15:24:30 INFO  MyVideo:41 - Opened Chrome driver
+2019-07-14 15:24:37 INFO  MyVideo:45 - Launched the Discovery URL : https://www.discovery.com/
+2019-07-14 15:24:37 INFO  MyVideo:68 - Selected favorite video title : SHARK WEEK
+2019-07-14 15:24:37 INFO  MyVideo:69 - Selected favorite video Description : SHARK WEEK
+2019-07-14 15:24:38 INFO  MyVideo:68 - Selected favorite video title : NAKED AND AFRAID XL
+2019-07-14 15:24:38 INFO  MyVideo:69 - Selected favorite video Description : NAKED AND AFRAID XL
+2019-07-14 15:24:38 INFO  MyVideo:73 - Number of videos added as favorites from Recommended for you section : 2
+2019-07-14 15:24:38 INFO  MyVideo:76 - Clicked on Menu icon
+2019-07-14 15:24:38 INFO  MyVideo:79 - Clicked on My Videos
+2019-07-14 15:24:43 INFO  MyVideo:85 - Number of video's under Favorite shows : 2
+2019-07-14 15:24:43 INFO  MyVideo:88 - Same number of videos added as Favorite from recommended section are displayed in My Video's Favorite shows
+2019-07-14 15:24:43 INFO  MyVideo:116 - Favorite show titles in My Video : [NAKED AND AFRAID XL, SHARK WEEK]
+2019-07-14 15:24:43 INFO  MyVideo:117 - Favorite show Descriptions in My Video  : [A group of the best survival experts in the world take on an un-survivable situation: 40 days.…, Television's longest running must-see summer TV event is filled with all things sharks! Shark Week…]
+2019-07-14 15:24:43 INFO  MyVideo:121 - Title of the added recommended video : NAKED AND AFRAID XL matched with the favorite video title : NAKED AND AFRAID XL
+2019-07-14 15:24:43 INFO  MyVideo:121 - Title of the added recommended video : SHARK WEEK matched with the favorite video title : SHARK WEEK
+2019-07-14 15:24:43 INFO  MyVideo:125 - Description of the added recommended video : A group of the best survival experts in the world take on an un-survivable situation: 40 days.… matched with the favorite video description : A group of the best survival experts in the world take on an un-survivable situation: 40 days.…
+2019-07-14 15:24:43 INFO  MyVideo:125 - Description of the added recommended video : Television's longest running must-see summer TV event is filled with all things sharks! Shark Week… matched with the favorite video description : Television's longest running must-see summer TV event is filled with all things sharks! Shark Week…
+2019-07-14 15:25:02 INFO  MyVideo:41 - Opened Chrome driver
+2019-07-14 15:25:10 INFO  MyVideo:45 - Launched the Discovery URL : https://www.discovery.com/
+2019-07-14 15:25:11 INFO  MyVideo:68 - Selected favorite video title : SHARK WEEK
+2019-07-14 15:25:11 INFO  MyVideo:69 - Selected favorite video Description : Television's longest running must-see summer TV event is filled with all things sharks! Shark Week…
+2019-07-14 15:25:12 INFO  MyVideo:68 - Selected favorite video title : NAKED AND AFRAID XL
+2019-07-14 15:25:12 INFO  MyVideo:69 - Selected favorite video Description : A group of the best survival experts in the world take on an un-survivable situation: 40 days.…
+2019-07-14 15:25:12 INFO  MyVideo:73 - Number of videos added as favorites from Recommended for you section : 2
+2019-07-14 15:25:12 INFO  MyVideo:76 - Clicked on Menu icon
+2019-07-14 15:25:12 INFO  MyVideo:79 - Clicked on My Videos
+2019-07-14 15:25:15 INFO  MyVideo:85 - Number of video's under Favorite shows : 2
+2019-07-14 15:25:15 INFO  MyVideo:88 - Same number of videos added as Favorite from recommended section are displayed in My Video's Favorite shows
+2019-07-14 15:25:16 INFO  MyVideo:116 - Favorite show titles in My Video : [NAKED AND AFRAID XL, SHARK WEEK]
+2019-07-14 15:25:16 INFO  MyVideo:117 - Favorite show Descriptions in My Video  : [A group of the best survival experts in the world take on an un-survivable situation: 40 days.…, Television's longest running must-see summer TV event is filled with all things sharks! Shark Week…]
+2019-07-14 15:25:16 INFO  MyVideo:121 - Title of the added recommended video : NAKED AND AFRAID XL matched with the favorite video title : NAKED AND AFRAID XL
+2019-07-14 15:25:16 INFO  MyVideo:121 - Title of the added recommended video : SHARK WEEK matched with the favorite video title : SHARK WEEK
+2019-07-14 15:25:16 INFO  MyVideo:125 - Description of the added recommended video : A group of the best survival experts in the world take on an un-survivable situation: 40 days.… matched with the favorite video description : A group of the best survival experts in the world take on an un-survivable situation: 40 days.…
+2019-07-14 15:25:16 INFO  MyVideo:125 - Description of the added recommended video : Television's longest running must-see summer TV event is filled with all things sharks! Shark Week… matched with the favorite video description : Television's longest running must-see summer TV event is filled with all things sharks! Shark Week…
+2019-07-14 15:28:19 INFO  MyVideo:41 - Opened Chrome driver
+2019-07-14 15:28:24 INFO  MyVideo:45 - Launched the Discovery URL : https://www.discovery.com/
+2019-07-14 15:28:26 INFO  MyVideo:68 - Selected favorite video title : SHARK WEEK
+2019-07-14 15:28:26 INFO  MyVideo:69 - Selected favorite video Description : Television's longest running must-see summer TV event is filled with all things sharks! Shark Week…
+2019-07-14 15:28:26 INFO  MyVideo:68 - Selected favorite video title : NAKED AND AFRAID XL
+2019-07-14 15:28:26 INFO  MyVideo:69 - Selected favorite video Description : A group of the best survival experts in the world take on an un-survivable situation: 40 days.…
+2019-07-14 15:28:26 INFO  MyVideo:73 - Number of videos added as favorites from Recommended for you section : 2
+2019-07-14 15:28:26 INFO  MyVideo:76 - Clicked on Menu icon
+2019-07-14 15:28:27 INFO  MyVideo:79 - Clicked on My Videos
+2019-07-14 15:28:32 INFO  MyVideo:85 - Number of video's under Favorite shows : 2
+2019-07-14 15:28:32 INFO  MyVideo:88 - Same number of videos added as Favorite from recommended section are displayed in My Video's Favorite shows
+2019-07-14 15:28:32 INFO  MyVideo:113 - Favorite show titles in My Video : SHARK WEEK
+2019-07-14 15:28:32 INFO  MyVideo:114 - Favorite show Descriptions in My Video  : Television's longest running must-see summer TV event is filled with all things sharks! Shark Week…
+2019-07-14 15:28:32 INFO  MyVideo:113 - Favorite show titles in My Video : NAKED AND AFRAID XL
+2019-07-14 15:28:32 INFO  MyVideo:114 - Favorite show Descriptions in My Video  : A group of the best survival experts in the world take on an un-survivable situation: 40 days.…
+2019-07-14 15:28:32 INFO  MyVideo:123 - Title of the added recommended video : NAKED AND AFRAID XL matched with the favorite video title : NAKED AND AFRAID XL
+2019-07-14 15:28:32 INFO  MyVideo:123 - Title of the added recommended video : SHARK WEEK matched with the favorite video title : SHARK WEEK
+2019-07-14 15:28:32 INFO  MyVideo:127 - Description of the added recommended video : A group of the best survival experts in the world take on an un-survivable situation: 40 days.… matched with the favorite video description : A group of the best survival experts in the world take on an un-survivable situation: 40 days.…
+2019-07-14 15:28:32 INFO  MyVideo:127 - Description of the added recommended video : Television's longest running must-see summer TV event is filled with all things sharks! Shark Week… matched with the favorite video description : Television's longest running must-see summer TV event is filled with all things sharks! Shark Week…
+2019-07-14 22:29:10 INFO  MyVideo:41 - Opened Chrome driver
+2019-07-14 22:29:40 INFO  MyVideo:45 - Launched the Discovery URL : https://www.discovery.com/
+2019-07-14 22:29:42 INFO  MyVideo:68 - Selected favorite video title : SHARK WEEK
+2019-07-14 22:29:42 INFO  MyVideo:69 - Selected favorite video Description : Television's longest running must-see summer TV event is filled with all things sharks! Shark Week…
+2019-07-14 22:29:42 INFO  MyVideo:68 - Selected favorite video title : NAKED AND AFRAID XL
+2019-07-14 22:29:42 INFO  MyVideo:69 - Selected favorite video Description : A group of the best survival experts in the world take on an un-survivable situation: 40 days.…
+2019-07-14 22:29:42 INFO  MyVideo:73 - Number of videos added as favorites from Recommended for you section : 2
+2019-07-14 22:29:42 INFO  MyVideo:76 - Clicked on Menu icon
+2019-07-14 22:29:43 INFO  MyVideo:79 - Clicked on My Videos
+2019-07-14 22:29:54 INFO  MyVideo:85 - Number of video's under Favorite shows : 2
+2019-07-14 22:29:54 INFO  MyVideo:88 - Same number of videos added as Favorite from recommended section are displayed in My Video's Favorite shows
+2019-07-14 22:29:54 INFO  MyVideo:113 - Favorite show titles in My Video : SHARK WEEK
+2019-07-14 22:29:54 INFO  MyVideo:114 - Favorite show Descriptions in My Video  : Television's longest running must-see summer TV event is filled with all things sharks! Shark Week…
+2019-07-14 22:29:54 INFO  MyVideo:113 - Favorite show titles in My Video : NAKED AND AFRAID XL
+2019-07-14 22:29:54 INFO  MyVideo:114 - Favorite show Descriptions in My Video  : A group of the best survival experts in the world take on an un-survivable situation: 40 days.…
+2019-07-14 22:29:54 INFO  MyVideo:123 - Title of the added recommended video : NAKED AND AFRAID XL matched with the favorite video title : NAKED AND AFRAID XL
+2019-07-14 22:29:54 INFO  MyVideo:123 - Title of the added recommended video : SHARK WEEK matched with the favorite video title : SHARK WEEK
+2019-07-14 22:29:54 INFO  MyVideo:127 - Description of the added recommended video : A group of the best survival experts in the world take on an un-survivable situation: 40 days.… matched with the favorite video description : A group of the best survival experts in the world take on an un-survivable situation: 40 days.…
+2019-07-14 22:29:54 INFO  MyVideo:127 - Description of the added recommended video : Television's longest running must-see summer TV event is filled with all things sharks! Shark Week… matched with the favorite video description : Television's longest running must-see summer TV event is filled with all things sharks! Shark Week…
