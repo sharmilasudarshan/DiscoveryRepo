@@ -7,11 +7,13 @@ RUN INSTRUCTIONS:
 ----------------
 1. Clone the git repository into your local system folder
 	- "git clone https://github.com/sharmilasudarshan/DiscoveryRepo.git"
-	
-2. Navigate to "DiscoveryRepo/discoveryautomation" folder (use terminal or windows command prompt) 
+
+2. Navigate to "DiscoveryRepo/discoveryautomation" folder (use terminal or windows command prompt)
 
 3. Run "mvn clean test"  to start the test execution.
 
 4. Observe the logs on console/discoveryautomation.log file.
 
 5. You can see the test results in "target/surefire-reports/index.html".
+
+6.
