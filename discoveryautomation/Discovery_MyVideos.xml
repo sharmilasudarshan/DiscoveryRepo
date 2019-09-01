@@ -5,5 +5,7 @@
 		<classes>
 			<class name="org.test.discoveryautomation.MyVideo" />
 		</classes>
-	</test> <!-- Test -->
-</suite> <!-- Suite -->
+
+	</test> <!-- Test add branch1-->
+</suite> <!-- Suite add branch1-->
+
