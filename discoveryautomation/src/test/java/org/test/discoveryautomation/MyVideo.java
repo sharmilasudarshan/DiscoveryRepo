@@ -36,7 +36,7 @@ public class MyVideo {
 		WebDriver webDriver = null;
 		try {
 
-			System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir").concat("\\chromedriver.exe"));
+			System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir").concat("/chromedriver_mac"));
 			webDriver = new ChromeDriver();
 			logger.info("Opened Chrome driver");
 			WebDriverWait wait = new WebDriverWait(webDriver, 20);

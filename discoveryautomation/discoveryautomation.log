@@ -257,3 +257,30 @@
 2019-07-14 22:29:54 INFO  MyVideo:123 - Title of the added recommended video : SHARK WEEK matched with the favorite video title : SHARK WEEK
 2019-07-14 22:29:54 INFO  MyVideo:127 - Description of the added recommended video : A group of the best survival experts in the world take on an un-survivable situation: 40 days.… matched with the favorite video description : A group of the best survival experts in the world take on an un-survivable situation: 40 days.…
 2019-07-14 22:29:54 INFO  MyVideo:127 - Description of the added recommended video : Television's longest running must-see summer TV event is filled with all things sharks! Shark Week… matched with the favorite video description : Television's longest running must-see summer TV event is filled with all things sharks! Shark Week…
+2019-09-01 14:22:24 ERROR MyVideo:134 -  Execution failed The driver executable does not exist: /Users/sharmila.s/DummyPro/DiscoveryRepo/discoveryautomation\chromedriver.exe
+2019-09-01 14:23:06 ERROR MyVideo:134 -  Execution failed The driver executable does not exist: /Users/sharmila.s/DummyPro/DiscoveryRepo/discoveryautomation\chromedriver.exe
+2019-09-01 14:24:12 ERROR MyVideo:134 -  Execution failed The driver executable does not exist: /Users/sharmila.s/DummyPro/DiscoveryRepo/discoveryautomation\chromedriver.exe
+2019-09-01 14:26:21 ERROR MyVideo:134 -  Execution failed The driver is not executable: /Users/sharmila.s/DummyPro/DiscoveryRepo/discoveryautomation/chromedriver.exe
+2019-09-01 14:26:34 ERROR MyVideo:134 -  Execution failed The driver is not executable: /Users/sharmila.s/DummyPro/DiscoveryRepo/discoveryautomation/chromedriver.exe
+2019-09-01 14:34:55 INFO  MyVideo:41 - Opened Chrome driver
+2019-09-01 14:35:02 INFO  MyVideo:45 - Launched the Discovery URL : https://www.discovery.com/
+2019-09-01 14:35:02 ERROR MyVideo:134 -  Execution failed no such element: Unable to locate element: {"method":"xpath","selector":"(//div[contains(text(),'Recommended')]//ancestor::section//div[@class='showTileSquare__content']//span[@class='tooltip-wrapper']/i)[1]"}
+  (Session info: chrome=76.0.3809.87)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RINMAC748', ip: 'fe80:0:0:0:1c15:67b4:eae0:2ad1%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.87, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: /var/folders/fh/s8qxw8jd3zz...}, goog:chromeOptions: {debuggerAddress: localhost:49621}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d6367bd4c36032222d52209732cc278e
+*** Element info: {Using=xpath, value=(//div[contains(text(),'Recommended')]//ancestor::section//div[@class='showTileSquare__content']//span[@class='tooltip-wrapper']/i)[1]}
+2019-09-01 14:35:15 INFO  MyVideo:41 - Opened Chrome driver
+2019-09-01 14:35:23 INFO  MyVideo:45 - Launched the Discovery URL : https://www.discovery.com/
+2019-09-01 14:35:23 ERROR MyVideo:134 -  Execution failed no such element: Unable to locate element: {"method":"xpath","selector":"(//div[contains(text(),'Recommended')]//ancestor::section//div[@class='showTileSquare__content']//span[@class='tooltip-wrapper']/i)[1]"}
+  (Session info: chrome=76.0.3809.87)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RINMAC748', ip: 'fe80:0:0:0:1c15:67b4:eae0:2ad1%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.87, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: /var/folders/fh/s8qxw8jd3zz...}, goog:chromeOptions: {debuggerAddress: localhost:49838}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: f5a94622730b0177c78fde77668a7eb9
+*** Element info: {Using=xpath, value=(//div[contains(text(),'Recommended')]//ancestor::section//div[@class='showTileSquare__content']//span[@class='tooltip-wrapper']/i)[1]}
